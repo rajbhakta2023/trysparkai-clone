@@ -1,0 +1,12 @@
+# General
+node_modules/
+bun.lockb
+.env
+.DS_Store
+
+# Build artifacts
+dist/
+build/
+
+# IDE metadata
+.vscode/
